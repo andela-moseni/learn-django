@@ -1,0 +1,23 @@
+{
+  "name": "djangogirls",
+  "version": "1.0.0",
+  "description": "getting started with django",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andela-moseni/learn-django.git"
+  },
+  "keywords": [
+    "django",
+    "python"
+  ],
+  "author": "Mercy Oseni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andela-moseni/learn-django/issues"
+  },
+  "homepage": "https://github.com/andela-moseni/learn-django#readme"
+}
